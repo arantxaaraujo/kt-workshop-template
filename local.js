@@ -56,7 +56,7 @@ var duration = moment.duration(between_now_and_event).minutes();
 const marquee_message =
   `<li id="xkcd"><marquee>
 
-  1.5˚ Climate Crisis ${years_to_event} years <span id="minutes" class='part'>${duration}</span>min
+the bus is coming, every 6 mins, a person gets killed by a bus, somewhere.
 
   </marquee></li>`;
 
